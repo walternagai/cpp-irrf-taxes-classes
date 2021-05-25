@@ -1,4 +1,4 @@
-# cpp-irrf-taxes
+# cpp-irrf-taxes-classes
 
 A tabela de descontos do IRRF, definidos pelo governo, é determinada na faixa e a base de incidência se encontra. 
 
@@ -14,7 +14,7 @@ Em 2018, os descontos eram os seguintes e aplicados aos valores brutos de salár
 
 * Acima de 4.664,68 - alíquota de 27,5%
 
-Faça um programa para ler os valores e uma alíquota de acordo com essa tabela.
+A partir de um valor bruto, determine a aliquota a ser aplicada e mostre valor líquido resultante da aplicação do imposto no salário bruto. 
 
 ## Exemplos de valores
 
